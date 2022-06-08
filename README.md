@@ -1,0 +1,1 @@
+# Patikadev-Kodluyoruz-Homeworks-blob-main-SQL-hw7-GROUPBY-HAVING.sql
